@@ -15,7 +15,7 @@
 
         <bytebuddy.version>1.17.7</bytebuddy.version>
         <lombok.version>1.18.40</lombok.version>
-        <spring.version>6.2.10</spring.version>
+        <spring.version>6.2.11</spring.version>
 
         <skipITs>false</skipITs>
     </properties>
